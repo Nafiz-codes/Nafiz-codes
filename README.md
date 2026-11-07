@@ -2,20 +2,15 @@
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Nafiz-codes/Nafiz-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p> -->
-#  Nafiz Shahriar Sami
-
 <div align="center">
-
+#  Nafiz Shahriar Sami
 ### Curious mind. Relentless builder.
 
 **AI / DATA SCIENCE / SOFTWARE ENGINEERING / OPEN SOURCE**
 
 *Building at the intersection of ideas and engineering.*
 
-[LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/nafizshahriarsami/)) · [Portfolio]([YOUR_PORTFOLIO](https://nafiz-shahriar.vercel.app/)) · [Email](mailto:shahriarsami123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nafizshahriarsami/) · [Portfolio](https://nafiz-shahriar.vercel.app/) · [Email](mailto:shahriarsami123@gmail.com)
 
 </div>
 
@@ -100,6 +95,10 @@ Cursor · Codex · Antigravity · VS Code
 - 🏅 6th Place, Top 8 Finalist — Echoes of July.
 - 🏆 UXRay — Winning project built with Codex.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nafiz-codes/Nafiz-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p> 
+
 ## 06 / Community & Open Source
 
 I believe technology grows stronger when people build and learn together.
@@ -113,13 +112,9 @@ I'm interested in:
 ## 07 / GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=transparent&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=Nafiz-codes&theme=transparent&hide_border=true" width="70%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=transparent&hide_border=true" width="49%" alt="Nafiz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=transparent&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Nafiz-codes&theme=transparent&hide_border=true" width="70%" alt="GitHub Streak" />
 </div>
 
 ## 08 / Let's Connect
