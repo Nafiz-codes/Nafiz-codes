@@ -111,15 +111,19 @@ I'm interested in:
 - Sharing knowledge and helping fellow developers.
 - Exploring opportunities to collaborate with people worldwide.
 
+
 ## 07 / GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  
+
+  <img src="https://github-stats-extended.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
   <br><br>
-  
+
   <img src="https://streak-stats.demolab.com?user=Nafiz-codes&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
+
 </div>
 
 ## 08 / Let's Connect
