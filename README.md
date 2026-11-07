@@ -112,15 +112,26 @@ I'm interested in:
 - Exploring opportunities to collaborate with people worldwide.
 
 
+
 ## 07 / GitHub Activity
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Nafiz-codes&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-codes&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180" alt="Top Languages" />
-  
-</p>
+<div align="center">
+
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=tokyonight&hide_border=true"
+    width="75%"
+    alt="GitHub Stats"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=tokyonight&hide_border=true"
+    width="75%"
+    alt="Top Languages"
+  />
+
+</div>
 
 ## 08 / Let's Connect
 
