@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Koi GIF
-        uses: yalongwastaken/git-profile-koi@v1.0.2
+        uses: yalongwastaken/git-koi@v1.0.2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
