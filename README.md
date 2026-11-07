@@ -3,14 +3,16 @@
 </p>
 
 <div align="center">
-#  Nafiz Shahriar Sami
+
+# Nafiz Shahriar Sami
+
 ### Curious mind. Relentless builder.
 
 **AI / DATA SCIENCE / SOFTWARE ENGINEERING / OPEN SOURCE**
 
 *Building at the intersection of ideas and engineering.*
 
-[LinkedIn](https://www.linkedin.com/in/nafizshahriarsami/) · [Portfolio](https://nafiz-shahriar.vercel.app/) · [Email](mailto:shahriarsami123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nafiz-shahriar) · [Portfolio](https://nafiz-codes.github.io) · [Email](mailto:nafizshahriar0@gmail.com)
 
 </div>
 
@@ -112,9 +114,10 @@ I'm interested in:
 ## 07 / GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=transparent&hide_border=true" width="49%" alt="Nafiz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=transparent&hide_border=true" width="49%" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Nafiz-codes&theme=transparent&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+
+  <img src="https://streak-stats.demolab.com?user=Nafiz-codes&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
 
 ## 08 / Let's Connect
