@@ -116,21 +116,7 @@ I'm interested in:
 ## 07 / GitHub Activity
 
 <div align="center">
-
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=tokyonight&hide_border=true"
-    width="75%"
-    alt="GitHub Stats"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nafiz-codes&layout=compact&theme=tokyonight&hide_border=true"
-    width="75%"
-    alt="Top Languages"
-  />
-
+  <img src="https://github-stats-extended.vercel.app/api?username=Nafiz-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%" alt="GitHub Stats" />
 </div>
 
 ## 08 / Let's Connect
