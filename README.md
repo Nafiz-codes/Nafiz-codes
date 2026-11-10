@@ -58,12 +58,13 @@ learning:
 
 | Project | Description | Recognition |
 |---|---|---|
-| 🌕 NASA Mission Trainer | Lunar/Martian outpost survival simulation | NASA Space Apps |
+| 🌕 NASA Mission Trainer | Lunar outpost survival simulation | NASA Space Apps |
 | 🔗 Catenyx | Blockchain-based forensic evidence custody | Finalist |
 | 💸 Fair Split | Collaborative expense splitting with Stripe Connect | 2nd Place |
 | 👻 Ghost in the Repo | Creative developer experience project | Hacktoberfest Winner |
 | 🧠 ModelPath | Beginner-friendly ML pipeline exploration | OpenAI Astra 6 |
 | 🎮 Echoes of July | Interactive historical visual novel and archive | 6th Place, Top 8 |
+| ✨ UXRay | AI-Powered UI/UX Repair Agent | 1st Place |
 
 *Explore my repositories for more experiments, prototypes, and projects.*
 
