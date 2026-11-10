@@ -91,11 +91,11 @@ Cursor · Codex · Antigravity · VS Code
 
 ## 05 / Achievements & Recognition
 
-- 🥇 Arduino UNO Q Prize Winner — Hacktoberfest 2026.
-- 🥈 2nd Place — Stripe × Cursor × IBM Hackathon.
-- 🏅 Finalist — Blockchain Competition (Catenyx).
+- 🥇 Arduino UNO Q Prize Winner — Hacktoberfest 2026 — Ghost in the Repo.
+- 🥈 2nd Place — Stripe × Cursor × IBM Hackathon — FairSplit.
+- 🏅 Finalist — Blockchain Competition — Catenyx.
 - 🏅 6th Place, Top 8 Finalist — Echoes of July.
-- 🏆 UXRay — Winning project built with Codex.
+- 🏆 1st Place — Codex & Qwen Community Dhaka Build Cave — UXRay.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nafiz-codes/Nafiz-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
