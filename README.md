@@ -98,8 +98,8 @@ Cursor · Codex · Antigravity · VS Code
 - 🏆 1st Place — Codex & Qwen Community Dhaka Build Cave — UXRay.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nafiz-codes/Nafiz-codes/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p> 
+  <img src="https://raw.githubusercontent.com/Nafiz-codes/Nafiz-codes/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ## 06 / Community & Open Source
 
