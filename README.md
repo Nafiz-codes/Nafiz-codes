@@ -46,7 +46,7 @@ currently_building:
   - NASA Junior Astronaut Mission Trainer
   - AI-powered developer tools
   - Data-driven applications
-
+  - International AI Builders Congress
 learning:
   - AWS
   - CNCF Ecosystem
@@ -58,13 +58,13 @@ learning:
 
 | Project | Description | Recognition |
 |---|---|---|
-| 🌕 NASA Mission Trainer | Lunar outpost survival simulation | NASA Space Apps |
-| 🔗 Catenyx | Blockchain-based forensic evidence custody | Finalist |
-| 💸 Fair Split | Collaborative expense splitting with Stripe Connect | 2nd Place |
-| 👻 Ghost in the Repo | Creative developer experience project | Hacktoberfest Winner |
-| 🧠 ModelPath | Beginner-friendly ML pipeline exploration | OpenAI Astra 6 |
-| 🎮 Echoes of July | Interactive historical visual novel and archive | 6th Place, Top 8 |
-| ✨ UXRay | AI-Powered UI/UX Repair Agent | 1st Place |
+| 🌕 [NASA Mission Trainer](https://github.com/Nafiz-codes/NASA-Mission-Trainer) | Lunar outpost survival simulation | NASA Space Apps |
+| 🔗 [Catenyx](https://github.com/Nafiz-codes/Catenyx) | Blockchain-based forensic evidence custody | Finalist |
+| 💸 [Fair Split](https://github.com/Nafiz-codes/Fair-Split) | Collaborative expense splitting with Stripe Connect | 2nd Place |
+| 👻 [Ghost in the Repo](https://github.com/Nafiz-codes/Ghost-in-the-Repo) | Creative developer experience project | Hacktoberfest Winner |
+| 🧠 [ModelPath](https://github.com/Nafiz-codes/ModelPath) | Beginner-friendly ML pipeline exploration | OpenAI Astra 6 |
+| 🎮 [Echoes of July](https://github.com/Nafiz-codes/Echoes-of-July) | Interactive historical visual novel and archive | 6th Place, Top 8 |
+| 🔍 [UXRay](https://github.com/Nafiz-codes/UXRay) | AI-Powered UI/UX Repair Agent | 1st Place |
 
 *Explore my repositories for more experiments, prototypes, and projects.*
 
