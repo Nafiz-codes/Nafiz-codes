@@ -100,7 +100,7 @@ AWS · Docker · Git · GitHub
 
 **Tools I Build With**
 
-Cursor · Codex · Antigravity · VS Code
+Cursor · Codex · Antigravity · VS Code · Devin · Figma · Claude Code
 
 ## 05 / Achievements & Recognition
 
