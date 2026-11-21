@@ -1,3 +1,4 @@
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Nafiz-codes/badge.svg)](https://hub.xerj.org/contributors/Nafiz-codes)
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
